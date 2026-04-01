@@ -1,17 +1,7 @@
 
-
-<!--
-**EazyETech/EazyETech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...<!-- Hero Section -->
-  
 # 👋🏾 **Wazzzup!**
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=600&size=45&pause=1000&color=63188F&center=true&vCenter=true&width=850&lines=My+name+is+Erick+Torres%2C!;Linux+System+Administrator+from+VA" alt="Linux System Administrator"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=600&size=45&pause=1000&color=63188F&center=true&vCenter=true&width=850&lines=My+name+is+Erick+Torres!;Linux+System+Administrator+from+VA" alt="Linux System Administrator"></a>
 </div>
 
 ### **Linux System Administrator | Automation | RHEL | Ansible | Bash | Cloud Infrastructure**
