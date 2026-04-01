@@ -84,13 +84,3 @@ Certified Linux System Administrator focused on Red Hat–based systems, automat
 </div>
 
 ---
-
-# 📊 **GitHub Metrics:** <img src="https://komarev.com/ghpvc/?username=justintimejlew&label=Profile%20views&color=63188F&style=flat" alt="Justin-Lewis" />
-
-<div align="center">
-  
-
-  
-</div>  
-
-<div align="center">
