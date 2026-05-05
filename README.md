@@ -14,7 +14,7 @@
 
 # 🧑🏾‍💻 **About**
 
-Red Hat Certified System Administrator (RHCSA) leveling up through hands-on lab work in automation, infrastructure engineering, and cloud operations. Currently deep in Ansible and Terraform, building real-world skills in a self-hosted VMware vSphere lab environment. On a mission to bridge the gap between ops and engineering, one playbook at a time.
+Red Hat Certified System Administrator (RHCSA) leveling up through hands-on lab work in automation, infrastructure engineering, and cloud operations. Currently deep in Ansible and Terraform, building real-world skills in a self-hosted VMware vSphere lab environment. On a mission to bridge the gap between ops and engineering, one deployment at a time.
 
 <a href="https://www.linkedin.com/in/erick-torres-569328205">
   <img src="https://img.shields.io/badge/Follow me on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
