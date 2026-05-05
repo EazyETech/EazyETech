@@ -14,7 +14,7 @@
 
 # 🧑🏾‍💻 **About**
 
-Certified Linux System Administrator focused on Red Hat–based systems, automation, and infrastructure engineering. Skilled in system administration, troubleshooting, configuration management, and secure operations. Driven by a strong commitment to continuous learning, documentation, and operational excellence.
+Red Hat Certified System Administrator (RHCSA) leveling up through hands-on lab work in automation, infrastructure engineering, and cloud operations. Currently deep in Ansible and Terraform, building real-world skills in a self-hosted VMware vSphere lab environment. On a mission to bridge the gap between ops and engineering, one playbook at a time.
 
 <a href="https://www.linkedin.com/in/erick-torres-569328205">
   <img src="https://img.shields.io/badge/Follow me on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -28,7 +28,8 @@ Certified Linux System Administrator focused on Red Hat–based systems, automat
 <img src="https://img.shields.io/badge/RHEL-cc0000?style=for-the-badge&logo=redhat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/CentOS%20Stream-262577?style=for-the-badge&logo=centos&logoColor=white"/>
-<img src="https://img.shields.io/badge/Proxmox-white?style=for-the-badge&logo=proxmox&logoColor=white)"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
 
 <!-- Automation -->
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
@@ -72,12 +73,11 @@ Certified Linux System Administrator focused on Red Hat–based systems, automat
 ---
 
 # 🔥 **Currently Working On**
-- Strengthening Bash scripting for automation tasks on **[bashtothefuture](https://github.com/jordanhall-it/bashtothefuture)** (collaborator)
-- AWS Cloud projects to prepare for ***AWS Certified Cloud Practitioner*** exam
-- Advanced Ansible modules & roles
-- Building a reproducible homelab with GitOps workflows
-- Preparing for ***Red Hat Certified Engineer*** certification
-
+- Advancing toward **RHCE (EX294)** certification through structured Ansible automation lab work
+- Operating a self-hosted **VMware vSphere homelab** with a control node and multiple managed nodes simulating enterprise Linux environments
+- Automating cloud infrastructure provisioning with **Terraform and Ansible** on AWS
+- Expanding a **Kubernetes cluster** on RHEL nodes with Nginx ingress and GitOps workflows
+- Contributing to Bash scripting automation as a collaborator on **[bashtothefuture](https://github.com/jordanhall-it/bashtothefuture)**
 <div align="center">  
 
   
