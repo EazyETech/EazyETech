@@ -14,7 +14,7 @@
 
 # 🧑🏾‍💻 **About**
 
-Red Hat Certified System Administrator (RHCSA) leveling up through hands-on lab work in automation, infrastructure engineering, and cloud operations. Currently deep in Ansible and Terraform, building real-world skills in a self-hosted VMware vSphere lab environment. On a mission to bridge the gap between ops and engineering, one deployment at a time.
+Red Hat Certified Engineer (RHCE) and Systems Administrator with hands-on experience in automation, infrastructure engineering, and cloud operations. Deep expertise in Ansible, Terraform, and VMware vSphere. On a mission to bridge the gap between ops and engineering, one deployment at a time.
 
 <a href="https://www.linkedin.com/in/erick-torres-569328205">
   <img src="https://img.shields.io/badge/Follow me on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -63,7 +63,15 @@ Red Hat Certified System Administrator (RHCSA) leveling up through hands-on lab 
 <a href="https://www.credly.com/badges/80f8cf61-b3a1-43c7-b312-3a84e32c0653/linked_in_profile" target="_blank">
   <img src="https://images.credly.com/size/680x680/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" width="180" alt="RHCSA Badge">
 </a>
+<!-- RHCE -->
+<a href="https://www.credly.com/badges/ec6f21b2-3a8c-4035-af6f-954dedbbd5b2" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" width="180" alt="RHCE Badge">
+</a>
 
+<!-- Red Hat Certified Advanced System Administrator in Ansible -->
+<a href="https://www.credly.com/badges/c5f10bcf-4b1e-4450-a5eb-5081094341f2" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/81c20b11-1206-4b1d-b87e-707581fe0c44/blob" width="180" alt="Red Hat Certified Advanced System Administrator in Ansible Badge">
+</a>
 
 </div>
 
@@ -73,7 +81,7 @@ Red Hat Certified System Administrator (RHCSA) leveling up through hands-on lab 
 ---
 
 # 🔥 **Currently Working On**
-- Advancing toward **RHCE (EX294)** certification through structured Ansible automation lab work
+- Earned **RHCE (EX294)** certification through structured Ansible automation lab work
 - Operating a self-hosted **VMware vSphere homelab** with a control node and multiple managed nodes simulating enterprise Linux environments
 - Automating cloud infrastructure provisioning with **Terraform and Ansible** on AWS
 - Expanding a **Kubernetes cluster** on RHEL nodes with Nginx ingress and GitOps workflows
