@@ -65,7 +65,7 @@ Red Hat Certified Engineer (RHCE) and Systems Administrator with hands-on experi
 </a>
 <!-- RHCE -->
 <a href="https://www.credly.com/badges/ec6f21b2-3a8c-4035-af6f-954dedbbd5b2" target="_blank">
-  <img src="https://images.credly.com/size/680x680/images/XXXXXXXX/blob" width="180" alt="RHCE Badge">
+  <img src="https://images.credly.com/size/680x680/images/bea533f4-c585-4240-9b7f-3d20c4fdb489/blob" width="180" alt="RHCE Badge">
 </a>
 
 <!-- Red Hat Certified Advanced System Administrator in Ansible -->
