@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=600&size=45&pause=1000&color=63188F&center=true&vCenter=true&width=850&lines=My+name+is+Erick+Torres!;Linux+System+Administrator+from+VA" alt="Linux System Administrator"></a>
 </div>
 
-### **Linux Systems Administrator | RHCE | Ansible Automation | Cloud Infrastructure
+### **Linux Systems Administrator | RHCE | Ansible Automation | Cloud Infrastructure**
 
 **Building real skills in the lab, one deployment at a time.**
 
@@ -75,7 +75,6 @@ Red Hat Certified Engineer (RHCE) and Systems Administrator with hands-on experi
 
 </div>
 
----
 
 
 ---
